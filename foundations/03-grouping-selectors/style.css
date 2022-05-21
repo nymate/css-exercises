@@ -1,0 +1,16 @@
+.option1,
+.option2 {
+color: aquamarine;
+font-size: 28px;
+font-family: Heletica; "Times New Roman", sans-serif
+}
+
+.option1 {
+    color: white;
+    background-color: black;
+}
+
+.option2 {
+    background-color: yellow;
+    color: black;
+}
